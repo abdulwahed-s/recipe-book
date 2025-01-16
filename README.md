@@ -28,9 +28,7 @@ Here are some screenshots of the app:
 <img width = "49%" src="https://github.com/abdulwahed-s/recipe-book/blob/main/Screenshot8.png?raw=true">
 <img width = "49%" src="https://github.com/abdulwahed-s/recipe-book/blob/main/Screenshot9.png?raw=true">
 <img width = "49%" src="https://github.com/abdulwahed-s/recipe-book/blob/main/Screenshot10.png?raw=true">
-
 </div>
-
 
 ## Download
 
@@ -45,3 +43,11 @@ To get started with the Recipe-Book App, follow these steps:
 3. Use the search function to find specific recipes.
 4. Adjust your diet and health settings to personalize your recipe recommendations.
 5. Save your favorite recipes for easy access.
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Enjoy cooking and exploring new recipes! 🍳
